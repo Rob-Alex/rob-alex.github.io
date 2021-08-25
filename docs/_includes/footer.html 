@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!-- Parse the Latex divs with Katex-->
 <script type="text/javascript">
   $("script[type='math/tex']").replaceWith(
