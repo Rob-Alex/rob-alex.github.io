@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <!-- Parse the Latex divs with Katex-->
 
-<!--test
 <footer>
 <script type="text/javascript">
   $("script[type='math/tex']").replaceWith(
@@ -17,4 +16,3 @@
   });
 </script>
 </footer>
--->
