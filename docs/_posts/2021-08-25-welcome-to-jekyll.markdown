@@ -9,4 +9,3 @@ This is now just a test to see if KaTeX is workig $$ x^2 \frac{e^2}{x-2} $$
 
 $$ E = mc^{2} $$
 
-here is another test 
