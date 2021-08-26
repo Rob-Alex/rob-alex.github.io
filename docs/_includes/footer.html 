@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <!-- Parse the Latex divs with Katex-->
+<footer>
 <script type="text/javascript">
   $("script[type='math/tex']").replaceWith(
     function(){
@@ -13,3 +14,4 @@
       return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
   });
 </script>
+</footer>
