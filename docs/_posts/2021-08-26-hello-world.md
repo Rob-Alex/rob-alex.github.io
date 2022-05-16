@@ -14,7 +14,7 @@ Hello world!
 
     print("Hello World")
 
-$$ x^2 $$
+$$ x^2 +  \frac{x^{e*i*\pi}}{-1} $$
 
 here is a test
 
