@@ -1,0 +1,16 @@
+#+TITLE: 2021 08 26 Hello World
+#+EXPORT_FILE_NAME: ~/Documents/Projects/Websites/Rob-Alex.github.io/docs/_posts/2021-08-26-hello-world
+#+OPTIONS: tex:verbatim
+
+#+OPTIONS: toc:nil
+
+
+* Heading 1
+** Heading 2
+Hello world!
+#+begin_src python
+print("Hello World")
+#+end_src
+$$ x^2 $$
+
+here is a test
