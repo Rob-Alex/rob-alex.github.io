@@ -1,5 +1,5 @@
-#+title: 2024 01 30 Creating A Physics Simulator On Apple Silicon
-#+EXPORT_FILE_NAME: ../docs/_posts/2024-01-30-creating-a-physics-simulator-on-apple-silicon
+#+title: 2024 02 20 Creating A Physics Simulator On Apple Silicon
+#+EXPORT_FILE_NAME: ../docs/_posts/2024-02-20-creating-a-physics-simulator-on-apple-silicon
 #+OPTIONS: tex:verbatim
 
 #+OPTIONS: toc:nil
