@@ -1,0 +1,19 @@
+#+title: 2024 01 30 Creating A Physics Simulator On Apple Silicon
+#+EXPORT_FILE_NAME: ../docs/_posts/2024-01-30-Creating-A-Physics-Simulator-On-Apple-Silicon
+#+OPTIONS: tex:verbatim
+
+#+OPTIONS: toc:nil
+
+* Introduction
+This post aims to introduce the use of GPU based physics simulations that are based on Apple's M-series chips. It will begin with basic compute operations.
+
+* What is Metal?
+Apple
+
+#+begin_src c
+kernel
+void function_name()
+{
+
+}
+#+end_src
