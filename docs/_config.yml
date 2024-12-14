@@ -21,7 +21,6 @@
 title: Robbie's Blog
 email: rob.alexander.115@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Electrical and electronics engineering students blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rob-alex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Rob-Alex

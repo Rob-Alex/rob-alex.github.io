@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Robbie Alexander and I PhD student who is looking into the design and development of electric and plasma based propulsion systems, machine learning and other avenues of engineering. 
+My name is Robbie Alexander, I am currently pursuing a PhD in EEE with a focus on high voltage generation, computational modelling, pulsed power and electric propulsion systems. My research can be found in my [University Profile](https://pureportal.strath.ac.uk/en/persons/robbie-alexander).
 
-This blog is for documenting my my personal projects and interests. Most of my projects will be related to electrical engineering, however sometimes I might also write about mathematics, science and programming!
+This is my blog is for documenting my personal projects and interests. Most of my projects will be related to electrical engineering, however sometimes I might also write about mathematics, science and programming!
 
